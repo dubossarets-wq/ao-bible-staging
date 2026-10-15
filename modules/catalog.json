@@ -608,7 +608,7 @@
    "type": "audio",
    "name": "Аудио KJV",
    "title": "King James Version — LibriVox (чтец Michael Armenta)",
-   "description": "Живое чтение Библии короля Якова (LibriVox, один чтец на всю Библию). Размечены: книги Exod, Num, 2Sam, Matt, Mark, Luke, John. В одном файле записано несколько глав: у главы есть start/end — секунды от начала файла. Время стихов получено принудительным выравниванием текста KJV с записью (MMS_FA). Записи загружаются с archive.org.",
+   "description": "Живое чтение Библии короля Якова (LibriVox, один чтец на всю Библию). Размечены: вся Библия. В одном файле записано несколько глав: у главы есть start/end — секунды от начала файла. Время стихов получено принудительным выравниванием текста KJV с записью (MMS_FA). Записи загружаются с archive.org.",
    "language": "en",
    "version": "1.0 (LibriVox 2020)",
    "author": "Michael Armenta (чтец); текст — KJV 1769",
@@ -618,8 +618,8 @@
    "versification": "synodal",
    "url": "audio-kjv-librivox.json",
    "urlGz": "audio-kjv-librivox.json.gz",
-   "size": 116440,
-   "sizeGz": 36224
+   "size": 568250,
+   "sizeGz": 158969
   }
  ]
 }
