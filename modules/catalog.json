@@ -620,6 +620,42 @@
    "urlGz": "audio-kjv-librivox.json.gz",
    "size": 568046,
    "sizeGz": 158958
+  },
+  {
+   "id": "audio-rst-nt-wwjd",
+   "type": "audio",
+   "name": "Аудио НЗ",
+   "title": "Новый Завет — живое чтение (без музыки)",
+   "description": "Новый Завет в Синодальном переводе, живые чтецы, без музыки, запись на каждую главу. Записи выложены на archive.org пользователем wwjdru под лицензией CC BY-NC-SA 3.0; вероятно, это записи Faith Comes By Hearing. Время стихов получено принудительным выравниванием текста RST с записью (MMS_FA). Озвучены книги: Matt, Mark, Luke, John, Acts, Rom, 1Cor, 2Cor, Gal, Eph, Phil, Col, 1Thess, 2Thess, 1Tim, 2Tim, Titus, Phlm, Heb, Jas, 1Pet, 2Pet, 1John, 2John, 3John, Jude, Rev.",
+   "language": "ru",
+   "version": "1.0 (archive.org, 2010)",
+   "author": "wwjdru (sites.google.com/site/wwjdru)",
+   "source": "https://archive.org/details/RU-NT-NonDrama",
+   "license": "CC BY-NC-SA 3.0 (по странице archive.org)",
+   "translation": "rst",
+   "versification": "synodal",
+   "url": "audio-rst-nt-wwjd.json",
+   "urlGz": "audio-rst-nt-wwjd.json.gz",
+   "size": 118044,
+   "sizeGz": 33368
+  },
+  {
+   "id": "audio-rst-ot-wwjd",
+   "type": "audio",
+   "name": "Аудио ВЗ",
+   "title": "Ветхий Завет — живое чтение (без музыки)",
+   "description": "Ветхий Завет в Синодальном переводе, живые чтецы, без музыки, запись на каждую главу. Записи выложены на archive.org пользователем wwjdru под лицензией CC BY-NC-SA 3.0; вероятно, это записи Faith Comes By Hearing. Время стихов получено принудительным выравниванием текста RST с записью (MMS_FA). Озвучены книги: Gen, Exod, Lev, Num, Deut, Josh, Judg, Ruth, 1Sam, 2Sam, 1Kgs, 2Kgs, 1Chr, 2Chr, Ezra, Neh, Esth, Job, Ps, Prov, Eccl, Song, Isa, Jer, Lam, Ezek, Dan, Hos, Joel, Amos, Obad, Jonah, Mic, Nah, Hab, Zeph, Hag, Zech, Mal.",
+   "language": "ru",
+   "version": "1.0 (archive.org, 2010)",
+   "author": "wwjdru (sites.google.com/site/wwjdru)",
+   "source": "https://archive.org/details/Russian-NT-NonDrama",
+   "license": "CC BY-NC-SA 3.0 (по странице archive.org)",
+   "translation": "rst",
+   "versification": "synodal",
+   "url": "audio-rst-ot-wwjd.json",
+   "urlGz": "audio-rst-ot-wwjd.json.gz",
+   "size": 360948,
+   "sizeGz": 94793
   }
  ]
 }
