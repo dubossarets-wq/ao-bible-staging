@@ -1510,8 +1510,8 @@
    "dictionaryKind": "strongs",
    "url": "strongs-ru-hebrew.json",
    "urlGz": "strongs-ru-hebrew.json.gz",
-   "size": 1905143,
-   "sizeGz": 376659
+   "size": 1904990,
+   "sizeGz": 376684
   },
   {
    "id": "strongs-ru-greek",
@@ -1527,8 +1527,8 @@
    "dictionaryKind": "strongs",
    "url": "strongs-ru-greek.json",
    "urlGz": "strongs-ru-greek.json.gz",
-   "size": 1280353,
-   "sizeGz": 316212
+   "size": 1280413,
+   "sizeGz": 316218
   },
   {
    "id": "goetze",
