@@ -1,4 +1,4 @@
-const CACHE = 'aobs-shell-20261017-102438';
+const CACHE = 'aobs-shell-20261017-102523';
 const PREFIX = 'aobs-shell-';
 const SHELL = ["./","index.html","manifest.webmanifest","modules/catalog.json","icons/icon.svg","icons/icon-192.png","icons/apple-touch-icon.png"];
 self.addEventListener('install', (e) => {
