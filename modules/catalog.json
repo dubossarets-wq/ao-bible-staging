@@ -1017,6 +1017,30 @@
    "sizeGz": 356728
   },
   {
+   "id": "rst-interlinear",
+   "type": "bible",
+   "name": "Подстрочник",
+   "title": "Синодальный перевод с подстрочником",
+   "description": "Синодальный перевод (RST+), под каждым словом — слово оригинала: еврейский текст Ветхого Завета (OSHB, Ленинградский кодекс) и греческий текст Нового Завета (Робинсон — Пирпонт), с номерами Стронга. Соответствие слов — по номерам Стронга; слова, добавленные переводчиками, — без оригинала.",
+   "language": "ru",
+   "version": "1.0",
+   "author": "Синодальный перевод (1876); разметка RST+ — В. Столярский; OSHB — Open Scriptures; греческий текст — М. Робинсон и У. Пирпонт (2018); сопоставление — AO Bible",
+   "source": "https://github.com/swmail/RST (SWORD-модуль RSThcs, подготовил В. Столярский на основе «Библии» ИББ, BibleQuote и Slavic Bible for Windows)",
+   "license": "Синодальный перевод и греческий текст — Public Domain; OSHB — CC BY 4.0",
+   "features": {
+    "strongs": true,
+    "morphology": true,
+    "headings": true,
+    "italics": true,
+    "interlinear": true
+   },
+   "versification": "synodal",
+   "url": "rst-interlinear.json",
+   "urlGz": "rst-interlinear.json.gz",
+   "size": 15357746,
+   "sizeGz": 3642565
+  },
+  {
    "id": "mhcc",
    "type": "commentary",
    "name": "M. Henry",
