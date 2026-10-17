@@ -1131,8 +1131,8 @@
    "versification": "synodal",
    "url": "bible-illustrations.json",
    "urlGz": "bible-illustrations.json.gz",
-   "size": 1645901,
-   "sizeGz": 195915
+   "size": 1655410,
+   "sizeGz": 196936
   },
   {
    "id": "xrefs-rst",
@@ -1510,8 +1510,8 @@
    "dictionaryKind": "strongs",
    "url": "strongs-ru-hebrew.json",
    "urlGz": "strongs-ru-hebrew.json.gz",
-   "size": 1904658,
-   "sizeGz": 376452
+   "size": 1905143,
+   "sizeGz": 376659
   },
   {
    "id": "strongs-ru-greek",
@@ -1527,8 +1527,8 @@
    "dictionaryKind": "strongs",
    "url": "strongs-ru-greek.json",
    "urlGz": "strongs-ru-greek.json.gz",
-   "size": 1279550,
-   "sizeGz": 316022
+   "size": 1280353,
+   "sizeGz": 316212
   },
   {
    "id": "goetze",
