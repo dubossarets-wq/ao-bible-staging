@@ -1146,6 +1146,28 @@
    "sizeGz": 939662
   },
   {
+   "id": "lxx-swete",
+   "type": "bible",
+   "name": "LXX",
+   "title": "Септуагинта (греческий Ветхий Завет), издание Свита",
+   "description": "Греческий Ветхий Завет (перевод семидесяти толковников) по изданию Г. Б. Свита «The Old Testament in Greek according to the Septuagint» (Кембридж, 1909–1930) с номерами Стронга. Свит печатает Ватиканский кодекс (B), а где его нет — Александрийский (A) или Синайский: так, начало Бытия (до 46:28) у Свита — по Александрийскому кодексу. Даниил — в переводе Феодотиона (Сусанна — Дан 13, Вил и дракон — Дан 14), Товит — краткая редакция; 4 Маккавейской, Псалмов Соломона и Од нет. Нумерация переведена в синодальную (таблица STEPBible TVTMS и SWORD, сверка по содержанию стихов); добавления Септуагинты с буквенными стихами (3 Цар 2:35a и т. п.) — в своём основном стихе. Номера Стронга — по леммам Open Scriptures; у слов, которых нет в Новом Завете, номера нет.",
+   "language": "grc",
+   "version": "Swete 1909–1930; eliranwong/LXX-Swete-1930 (git)",
+   "author": "Henry Barclay Swete (издание); оцифровка — Pasquale Amicarelli, Eliran Wong; леммы — Open Scriptures Septuagint Project; таблица нумерации — STEPBible (Tyndale House)",
+   "source": "https://github.com/eliranwong/LXX-Swete-1930; https://github.com/openscriptures/GreekResources; https://github.com/STEPBible/STEPBible-Data",
+   "license": "Оцифровка текста — GPL-3.0 (P. Amicarelli, E. Wong); текст издания Свита — Public Domain; леммы — CC BY 4.0 (Open Scriptures); таблица нумерации TVTMS — CC BY 4.0 (STEPBible.org)",
+   "features": {
+    "strongs": true,
+    "morphology": false,
+    "headings": false
+   },
+   "versification": "synodal",
+   "url": "lxx-swete.json",
+   "urlGz": "lxx-swete.json.gz",
+   "size": 10989512,
+   "sizeGz": 2095040
+  },
+  {
    "id": "mhcc",
    "type": "commentary",
    "name": "M. Henry",
