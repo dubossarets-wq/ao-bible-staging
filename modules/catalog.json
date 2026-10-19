@@ -1662,9 +1662,27 @@
    "versification": "synodal",
    "url": "audio-hbo-shmuelof.json",
    "urlGz": "audio-hbo-shmuelof.json.gz",
-   "size": 1126177,
-   "sizeGz": 294136,
+   "size": 3074060,
+   "sizeGz": 1043211,
    "translation": "oshb"
+  },
+  {
+   "id": "audio-grc-phemister",
+   "type": "audio",
+   "name": "Аудио НЗ (греческий)",
+   "title": "Новый Завет по-гречески — живое чтение Марилин Фемистер (эразмово произношение)",
+   "description": "Греческий текст Нового Завета (издание Весткотта — Хорта) читает Марилин Фемистер — живой голос, эразмово произношение, запись на каждую главу. Время стихов и слов найдено выравниванием записи с текстом Робинсона — Пирпонта (byz-rp2018); стихов, которых нет у Весткотта — Хорта, в записи нет, а там, где тексты расходятся, слова подсвечиваются примерно. Звучит в подстрочнике: кнопка «Слушать» у стиха.",
+   "language": "grc",
+   "version": "2001 (archive.org, 2009)",
+   "author": "Marilyn Phemister (чтец)",
+   "source": "https://archive.org/details/AudiogreeknewtestamentOfWescott.hort.readByMarilynPhemister",
+   "license": "CC BY-NC 3.0 US (по странице archive.org); записи проигрываются с archive.org",
+   "versification": "synodal",
+   "url": "audio-grc-phemister.json",
+   "urlGz": "audio-grc-phemister.json.gz",
+   "size": 1289316,
+   "sizeGz": 445428,
+   "translation": "byz-rp2018"
   }
  ]
 }
