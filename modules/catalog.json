@@ -1041,6 +1041,27 @@
    "sizeGz": 3642565
   },
   {
+   "id": "vin-interlinear",
+   "type": "bible",
+   "name": "Подстрочник (Винокуров)",
+   "title": "Подстрочный перевод греческого текста Нового Завета А. Винокурова",
+   "description": "Подстрочный перевод греческого текста Нового Завета Алексея Винокурова (2015). Слова идут в порядке греческого текста: под каждым греческим словом — русское соответствие и номер Стронга. Квадратные скобки — слова, добавленные для связности русской фразы; точка «·» — слово без русского перевода (например, артикль).",
+   "language": "ru",
+   "version": "2015",
+   "author": "Алексей Винокуров (подстрочный перевод, 2015); греческий текст — UBS3/NA26",
+   "source": "https://azbyka.ru/biblia/podstrochnik",
+   "license": "Используется с разрешения автора для бесплатного некоммерческого приложения",
+   "features": {
+    "strongs": true,
+    "interlinear": true
+   },
+   "versification": "synodal",
+   "url": "vin-interlinear.json",
+   "urlGz": "vin-interlinear.json.gz",
+   "size": 4398541,
+   "sizeGz": 950323
+  },
+  {
    "id": "mhcc",
    "type": "commentary",
    "name": "M. Henry",
@@ -1641,8 +1662,8 @@
    "versification": "synodal",
    "url": "audio-hbo-shmuelof.json",
    "urlGz": "audio-hbo-shmuelof.json.gz",
-   "size": 1118092,
-   "sizeGz": 290479
+   "size": 1126177,
+   "sizeGz": 294136
   }
  ]
 }
