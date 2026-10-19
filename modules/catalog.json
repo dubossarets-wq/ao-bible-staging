@@ -1626,6 +1626,23 @@
    "urlGz": "audio-rst-ot-wwjd.json.gz",
    "size": 360948,
    "sizeGz": 94793
+  },
+  {
+   "id": "audio-hbo-shmuelof",
+   "type": "audio",
+   "name": "Аудио ВЗ (иврит)",
+   "title": "Ветхий Завет на иврите — живое чтение Авраама Шмуэлофа",
+   "description": "Еврейский текст Ветхого Завета читает Авраам Шмуэлоф (живой голос, современное израильское произношение). Запись на каждую главу, время стихов — разметка авторов из аудиокниг eBible.org. Звучит в подстрочнике: кнопка «Слушать» у стиха.",
+   "language": "he",
+   "version": "eBible.org (2016)",
+   "author": "Авраам Шмуэлоф; публикация — eBible.org",
+   "source": "https://archive.org/details/HebBible_AShmuelof",
+   "license": "CC BY-NC-ND 4.0 (записи не изменяются, проигрываются с archive.org)",
+   "versification": "synodal",
+   "url": "audio-hbo-shmuelof.json",
+   "urlGz": "audio-hbo-shmuelof.json.gz",
+   "size": 1118092,
+   "sizeGz": 290479
   }
  ]
 }
