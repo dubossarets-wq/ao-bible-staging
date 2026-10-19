@@ -1663,7 +1663,8 @@
    "url": "audio-hbo-shmuelof.json",
    "urlGz": "audio-hbo-shmuelof.json.gz",
    "size": 1126177,
-   "sizeGz": 294136
+   "sizeGz": 294136,
+   "translation": "oshb"
   }
  ]
 }
