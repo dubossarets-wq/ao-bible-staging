@@ -1789,6 +1789,28 @@
    "size": 1289316,
    "sizeGz": 445428,
    "translation": "byz-rp2018"
+  },
+  {
+   "id": "vulg-interlinear",
+   "type": "bible",
+   "name": "Vulg-IL",
+   "title": "Подстрочник к Вульгате (по словарю)",
+   "description": "Слова латинской Вульгаты (Климентинское издание, синодальная нумерация) по порядку; у каждого — лемма и краткое русское значение по словарю. Значение подобрано по словам синодального стиха, а если такого слова в стихе нет — первое словарное значение; это не перевод данного места. Служебный модуль для окна «Подстрочник» (вкладка «Вульгата»).",
+   "language": "la",
+   "version": "1.0 (Clementina, eBible.org latVUC 2014; ru.wiktionary.org через kaikki.org; Collatinus)",
+   "author": "Текст — Вульгата бл. Иеронима, Климентинское издание; леммы — Collatinus (Y. Ouvrard, Ph. Verkerk; порт pycollatinus — T. Clérice); значения — участники русского Викисловаря; служебные слова и часть значений — AO Bible",
+   "source": "https://ebible.org/find/details.php?id=latVUC; https://ru.wiktionary.org (выгрузка https://kaikki.org/dictionary/rawdata.html); https://github.com/biblissima/collatinus",
+   "license": "Текст Вульгаты — Public Domain; значения из Викисловаря — CC BY-SA 4.0 (участники Викисловаря), модуль распространяется на тех же условиях; леммы получены лемматизатором Collatinus (GPL)",
+   "features": {
+    "strongs": false,
+    "headings": false,
+    "helper": true
+   },
+   "versification": "synodal",
+   "url": "vulg-interlinear.json",
+   "urlGz": "vulg-interlinear.json.gz",
+   "size": 12690525,
+   "sizeGz": 3166997
   }
  ]
 }
