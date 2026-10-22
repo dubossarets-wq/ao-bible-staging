@@ -1,4 +1,4 @@
-const CACHE = 'aobs-shell-20261022-082545';
+const CACHE = 'aobs-shell-20261022-085059';
 const PREFIX = 'aobs-shell-';
 const ILLUS = 'aobs-illus';
 const ILLUS_MAX = 120;
