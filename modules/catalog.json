@@ -71,7 +71,7 @@
    "id": "kjv",
    "type": "bible",
    "name": "KJV",
-   "title": "King James Version (1769) с номерами Стронга",
+   "title": "King James Version (1769), Strong's numbers",
    "description": "Английская Библия короля Якова (Authorized Version, стандартный текст 1769 г.) с номерами Стронга и курсивом добавленных слов. 66 книг. Нумерация стихов переведена в синодальную (Псалтирь, Иов, Малахия и др.), надписания псалмов — отдельным стихом, как в синодальном.",
    "language": "en",
    "version": "eBible.org eng-kjv2006 (2026-09-26)",
@@ -86,14 +86,14 @@
    "versification": "synodal",
    "url": "kjv.json",
    "urlGz": "kjv.json.gz",
-   "size": 7080257,
-   "sizeGz": 1825100
+   "size": 7080240,
+   "sizeGz": 1825110
   },
   {
    "id": "bsb",
    "type": "bible",
    "name": "BSB",
-   "title": "Berean Standard Bible с номерами Стронга",
+   "title": "Berean Standard Bible, Strong's numbers",
    "description": "Современный английский перевод Berean Standard Bible с номерами Стронга у каждого слова или фразы и заголовками разделов. Нумерация стихов переведена в синодальную.",
    "language": "en",
    "version": "CrossWire BSB 2.0",
@@ -107,8 +107,8 @@
    "versification": "synodal",
    "url": "bsb.json",
    "urlGz": "bsb.json.gz",
-   "size": 7142148,
-   "sizeGz": 1976998
+   "size": 7142131,
+   "sizeGz": 1977013
   },
   {
    "id": "oshb",
